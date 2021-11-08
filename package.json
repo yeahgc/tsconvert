@@ -1,0 +1,14 @@
+{
+  "name": "tskitchen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  
+    "dev": "tsc scripts.ts -w",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
